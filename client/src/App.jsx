@@ -90,7 +90,7 @@ async function loginAdmin(pin) {
 /* ========== SHARED COMPONENTS ========== */
 const ScoutLogo = () => (
   <img
-    src="C:/Users/micha/OneDrive - Middlesex University/DYSF 2026/App/client/public/logo.png"
+    src="/dysf-agenda/logo.png"
     alt="worldscouting"
     style={{ width: 200, height: 70, borderRadius: 8, objectFit: "contain" }}
   />
