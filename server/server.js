@@ -6,7 +6,14 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3001;
 
-app.use(cors());
+app.use(cors({
+  origin: [
+    "http://localhost:5173",
+    "https://mikacode-stack.github.io"
+  ],
+  methods: ["GET", "POST", "PUT"],
+  allowedHeaders: ["Content-Type"]
+}));
 app.use(express.json());
 
 // Serve built frontend in production
