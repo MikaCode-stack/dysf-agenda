@@ -1,0 +1,311 @@
+[
+  {
+    "day": "Friday",
+    "date": "08/05",
+    "label": "Day 1 — Arrival & Icebreakers",
+    "sessions": [
+      {
+        "id": "f1",
+        "time": "18:00",
+        "end": "19:00",
+        "title": "Departure from Port Louis",
+        "type": "logistics",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "f2",
+        "time": "19:00",
+        "end": "20:00",
+        "title": "Arrival + Registration",
+        "type": "logistics",
+        "facilitator": "Secretary + Finance Team",
+        "status": "upcoming"
+      },
+      {
+        "id": "f3",
+        "time": "20:00",
+        "end": "20:30",
+        "title": "Camp Set-up",
+        "type": "logistics",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "f4",
+        "time": "20:30",
+        "end": "21:15",
+        "title": "Dinner",
+        "type": "break",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "f5",
+        "time": "21:15",
+        "end": "21:45",
+        "title": "Ice-Breaking",
+        "type": "fun",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "f6",
+        "time": "21:45",
+        "end": "22:30",
+        "title": "Safe from Harm",
+        "type": "plenary",
+        "facilitator": "SfH Team",
+        "status": "upcoming"
+      },
+      {
+        "id": "f7",
+        "time": "22:30",
+        "end": "23:00",
+        "title": "Night Games",
+        "type": "fun",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "f8",
+        "time": "23:00",
+        "end": "23:15",
+        "title": "Announcements + Dismiss",
+        "type": "workshop",
+        "facilitator": "",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "day": "Saturday",
+    "date": "09/05",
+    "label": "Day 2 — Main Forum",
+    "sessions": [
+      {
+        "id": "s1",
+        "time": "07:00",
+        "end": "08:00",
+        "title": "Wake-Up / Breakfast",
+        "type": "break",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "s2",
+        "time": "08:00",
+        "end": "08:30",
+        "title": "Opening Ceremony",
+        "type": "forum",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "s3",
+        "time": "08:30",
+        "end": "09:15",
+        "title": "DYSC 24-26 Report",
+        "type": "plenary",
+        "facilitator": "Michael + Anne Sophie",
+        "status": "upcoming"
+      },
+      {
+        "id": "s4",
+        "time": "09:15",
+        "end": "10:00",
+        "title": "Resolutions & Recommendations",
+        "type": "plenary",
+        "facilitator": "Michael + Lucasse",
+        "status": "upcoming"
+      },
+      {
+        "id": "s5",
+        "time": "10:00",
+        "end": "10:15",
+        "title": "Tea and Free Time",
+        "type": "break",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "s6",
+        "time": "10:15",
+        "end": "12:15",
+        "title": "Expressing with Impact",
+        "type": "plenary",
+        "facilitator": "Michael Pompeia",
+        "status": "upcoming"
+      },
+      {
+        "id": "s7",
+        "time": "12:15",
+        "end": "13:00",
+        "title": "Lunch",
+        "type": "break",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "s8",
+        "time": "13:00",
+        "end": "14:30",
+        "title": "Workshop Session 1",
+        "type": "workshop",
+        "facilitator": "Darel / Axel / Kovalan / Jeremie C",
+        "status": "upcoming"
+      },
+      {
+        "id": "s9",
+        "time": "14:30",
+        "end": "15:00",
+        "title": "Mini Break",
+        "type": "break",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "s10",
+        "time": "15:00",
+        "end": "16:45",
+        "title": "Workshop Session 2",
+        "type": "workshop",
+        "facilitator": "Darel / Axel / Kovalan / Jeremie C",
+        "status": "upcoming"
+      },
+      {
+        "id": "s11",
+        "time": "16:45",
+        "end": "17:00",
+        "title": "Tea and Free Time",
+        "type": "break",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "s12",
+        "time": "17:00",
+        "end": "18:30",
+        "title": "Heritage and Innovation — Panel",
+        "type": "plenary",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "s13",
+        "time": "18:30",
+        "end": "19:30",
+        "title": "Res & Rec Writing",
+        "type": "forum",
+        "facilitator": "Michael + Lucasse",
+        "status": "upcoming"
+      },
+      {
+        "id": "s14",
+        "time": "19:30",
+        "end": "20:30",
+        "title": "Elections Process Guidelines",
+        "type": "plenary",
+        "facilitator": "Michael + Lucasse",
+        "status": "upcoming"
+      },
+      {
+        "id": "s15",
+        "time": "20:30",
+        "end": "21:30",
+        "title": "Dinner",
+        "type": "break",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "s16",
+        "time": "21:30",
+        "end": "23:00",
+        "title": "Theme Night",
+        "type": "fun",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "s17",
+        "time": "23:00",
+        "end": "23:30",
+        "title": "Lights Out",
+        "type": "forum",
+        "facilitator": "",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "day": "Sunday",
+    "date": "10/05",
+    "label": "Day 3 — Elections & Closing",
+    "sessions": [
+      {
+        "id": "u1",
+        "time": "07:00",
+        "end": "08:00",
+        "title": "Breakfast",
+        "type": "break",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "u2",
+        "time": "08:00",
+        "end": "09:15",
+        "title": "From Potential to Action",
+        "type": "forum",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "u3",
+        "time": "09:15",
+        "end": "10:00",
+        "title": "Presentation of Candidates",
+        "type": "plenary",
+        "facilitator": "Michael + Anne Sophie + NYSC",
+        "status": "upcoming"
+      },
+      {
+        "id": "u4",
+        "time": "10:00",
+        "end": "10:30",
+        "title": "Free Time",
+        "type": "fun",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "u5",
+        "time": "10:30",
+        "end": "12:00",
+        "title": "Elections + Res Voting",
+        "type": "forum",
+        "facilitator": "Michael + Anne Sophie + NYSC",
+        "status": "upcoming"
+      },
+      {
+        "id": "u6",
+        "time": "12:00",
+        "end": "12:45",
+        "title": "Lunch",
+        "type": "break",
+        "facilitator": "",
+        "status": "upcoming"
+      },
+      {
+        "id": "u7",
+        "time": "12:45",
+        "end": "13:30",
+        "title": "Closing Ceremony",
+        "type": "forum",
+        "facilitator": "",
+        "status": "upcoming"
+      }
+    ]
+  }
+]
