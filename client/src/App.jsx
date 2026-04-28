@@ -1217,7 +1217,15 @@ function ParticipantView({ agenda, activeDay, setActiveDay, announcement }) {
                   activeDay === i ? "0 4px 16px rgba(27,154,170,0.25)" : "none",
               }}
             >
-              {d.day}
+              <div>{d.day}</div>
+                <div style={{
+                  fontSize: 10,
+                  fontWeight: 600,
+                  opacity: 0.8,
+                  marginTop: 2
+                }}>
+                  {d.date}
+                </div>
             </button>
           ))}
         </div>
