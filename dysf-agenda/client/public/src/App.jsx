@@ -1,5 +1,8 @@
 import { useState, useEffect, useCallback } from "react";
 
+const API_BASE_URL =
+  import.meta.env.VITE_API_BASE_URL || "http://localhost:3001";
+
 const TYPE_CONFIG = {
   plenary: {
     color: "#D4A017",
@@ -58,25 +61,25 @@ const SESSION_TYPES = [
 
 /* ========== API HELPERS ========== */
 async function fetchAgenda() {
-  const res = await fetch("/api/agenda");
+  const res = await fetch(`${API_BASE_URL}/api/agenda`);
   return res.json();
 }
 async function saveAgenda(agenda) {
-  await fetch("/api/agenda", {
+  await fetch(`${API_BASE_URL}/api/agenda`, {
     method: "PUT",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ agenda }),
   });
 }
 async function saveAnnouncement(text) {
-  await fetch("/api/announcement", {
+  await fetch(`${API_BASE_URL}/api/agenda`, {
     method: "PUT",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ text }),
+    body: JSON.stringify({ agenda }),
   });
 }
 async function loginAdmin(pin) {
-  const res = await fetch("/api/login", {
+  const res = await fetch(`${API_BASE_URL}/api/login`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ pin }),
