@@ -41,7 +41,7 @@ const TYPE_CONFIG = {
     icon: "\u{1F68C}",
   },
 };
-const BACKGROUND_IMAGE = "url('public/background.jpg')";
+const BACKGROUND_IMAGE = "url('/dysf-agenda/background.jpg')";
 
 const glassCard = {
   background: "rgba(250,250,245,0.88)",
@@ -98,7 +98,7 @@ const ScoutLogo = () => (
 
 const ChevronArrows = () => (
   <img
-    src="./public/arrows.png"
+    src="/dysf-agenda/arrows.png"
     alt="arrows"
     style={{ width: 200, height: 70, borderRadius: 8, objectFit: "contain" }}
   />
